@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1{
+    padding-bottom:80px;
+    padding-top: 30px;
+}
+input{
+    margin-left: 20px;
+}
+button{
+    margin-top: 30px;
+    margin-left: 60px;
+   width: 80px;
+   height: 30px;
+}
+button:hover{
+    background-color: green;
+    font-size: 20px;
+}
